@@ -71,5 +71,8 @@ To create a clean and modern portfolio website to:
 - Opens in a new browser tab for convenience
 
 ---
+
 🌐 Live Demo
-🔗 Click to view website(https://madinenimadhankumar.github.io/Portfolio/)
+🔗 [Click here to view my Portfolio Website](https://madinenimadhankumar.github.io/Portfolio/)
+
+---
